@@ -1,0 +1,1 @@
+2023/02/20 18:28:14 [warn] 408#408: *797 using uninitialized "server" variable while logging request, client: 159.223.236.123, server: docker-be-dev.microlistics.tech, request: "HELP"
